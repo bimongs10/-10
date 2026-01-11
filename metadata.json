@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Ensemble Storyboard Producer",
+  "description": "A professional AI-powered storyboard creator that generates consistent scene images based on scripts, styles, and character references using Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
